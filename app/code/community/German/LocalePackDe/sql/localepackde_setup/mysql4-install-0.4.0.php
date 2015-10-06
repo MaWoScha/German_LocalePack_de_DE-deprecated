@@ -14,7 +14,7 @@ $installer->startSetup();
 $blockContent = <<<EOD
 Falls Sie Fragen oder Anregungen haben, kontaktieren Sie uns bitte wahlweise
 per E-Mail <a href="mailto:{{var store_email}}">{{var store_email}}</a>,
-per Telefon <a href="tel:{{var phone}}">{{var store_phone}}</a>,
+per Telefon <a href="tel:{{var store_phone}}">{{var store_phone}}</a>,
 via <a title="Meine Service-Seite auf Skype" href="skype:mein.laden?chat" target="_blank">Skype-Chat</a> (Benutzername: mein.laden)
 oder in Facebook auf unserer <a title="Meine Fanseite auf Facebook" href="http://www.facebook.com/mein.laden" target="_blank">Meine Fanseite</a>.
 EOD;
