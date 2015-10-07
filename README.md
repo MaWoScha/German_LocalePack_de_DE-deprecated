@@ -12,23 +12,9 @@ Dieses Git-Repository kann genutzt werden für:
 * Entwicklung aktueller Versionen
 * Behebung von Fehlern in bereits veröffentlichten Versionen
 * Alternative Downloads (unabhängig von den offiziellen Quellen)
-* Eigene Sprachversion basierend auf es_ES
+* Eigene Sprachversion basierend auf de_DE
 * Melden von Fehlern und PullRequests
 * Aktives Mitwirken am Sprachpaket
-
-## Orientierung:
-
-* Switch Branches = Wechsel des Bearbeitungsstandes.
-  * _master_ ist der auf Magento Connect verfügbare Stand
-  * _preview_ ist die aktuell in Arbeit befindliche Version
-  * _alpha_ ist, sofern vorhanden, eine Version, die für größere Versionssprünge bereits vorbereitet wird
-* Tags = Direktauswahl bestimmter Sprachpaket-Versionen.
-
-# Versionierung der Sprachpakete
-
-Die Version des Sprachpaketes sollte immer zur eigenen Magento-Version passen. Aktuell werden die Sprachpakete daher folgendermaßen versioniert: <magento-version>.<sprachpaket-version> = <1.8.0.0>.<0>
-
-Ein Sprachpaket 1.7.0.2.1 passt demnach nicht zu einem Magento 1.8.0.0!
 
 # Melden von Fehlern
 
@@ -70,3 +56,8 @@ revisado e internacionalizado de MaWoScha.
 
 Esta extensión se prueba con Magento 1.6.2, 1.7.0, 1.8.1, 1.9.0 y 1.9.1. <br />
 El paquete de idioma es adecuado para Magento 1.6.x hasta 1.9.2.x
+
+
+# Siehe auch / See also
+* [German LocalePack de_AT](https://github.com/MaWoScha/German_LocalePack_de_AT)
+* [German LocalePack de_CH](https://github.com/MaWoScha/German_LocalePack_de_CH)
