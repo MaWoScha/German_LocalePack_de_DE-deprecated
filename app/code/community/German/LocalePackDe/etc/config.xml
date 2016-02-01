@@ -11,11 +11,12 @@
 <config>
     <modules>
         <German_LocalePackDe>
-            <version>0.8.1</version>
+            <version>0.8.2</version>
             <locale>de_DE</locale>
             <title>German (Germany) Language Pack</title>
             <link_git>https://github.com/riconeitzel/German_LocalePack_de_DE</link_git>
             <link_mage>http://www.magentocommerce.com/magento-connect/locale-mage-community-de-de.html</link_mage>
+            <mage_key>http://connect20.magentocommerce.com/community/Locale_Mage_community_de_DE</mage_key>
         </German_LocalePackDe>
     </modules>
 
@@ -73,7 +74,7 @@
             <updates>
                 <localepackde>
                     <files>
-                    	<default>localepackde.xml</default>
+                        <default>localepackde.xml</default>
                     </files>
                 </localepackde>
             </updates>

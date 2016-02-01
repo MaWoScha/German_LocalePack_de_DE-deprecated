@@ -7,7 +7,7 @@
 "Allow Qty Below 0 and Notify Customer","Lagerbestand unter 0 erlauben und Kunden benachrichtigen"
 "Automatically Return Credit Memo Item to Stock","Artikel der Rechnungskorrektur automatisch zum Lager retournieren"
 "Backorders","Lieferrückstand"
-"By Fixed value","Nach festen Wert"
+"By Fixed value","Nach festen Betrag"
 "By Percentage","Nach Prozent"
 "Cannot specify product identifier for the order item.","Produktidentifier für den Artikel kann nicht spezifiziert werden."
 "Catalog Inventory","Kataloginventar"
